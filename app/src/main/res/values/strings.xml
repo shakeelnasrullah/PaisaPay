@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PaisaPay</string>
+    <string name="action_settings">Settings</string>
+    <string name="amount_hint">Enter Amount i.e. 10 </string>
+    <string name="choose_currency">Select a currency</string>
+    <string name="amount_label">1.99999</string>
+    <string name="currency_code_label">USD</string>
+    <string name="calculate_label">Calculate</string>
+    <string name="time_extras">com.time.extras</string>
+    <string name="loading_currencies">Please wait, loading currencies.</string>
+
+
+</resources>
